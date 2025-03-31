@@ -13,9 +13,9 @@
 
 # Tareas
 [Certificado IBM](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Tareas/Semana%203/Certificado%20IBM%20Python.pdf)  
-[Regresion Lineal](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Tareas/Semana%209/Regresion%20Lineal.ipynb)  
-[Regresion Lineal Multiple](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Tareas/Semana%209/Regresion%20Lineal%20Multiple.ipynb)  
-[Regresion Logistica](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Tareas/Semana%209/Regresion%20Logistica.ipynb)  
-[Arbol de desiciones](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Tareas/Semana%2010/Arbol%20de%20desicion.ipynb)  
-[Random Forest](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Tareas/Semana%2010/Random%20Forest.ipynb)  
-[K-Nearest-Neihborn](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Tareas/Semana%2010/K-Nearest-Neighbor.ipynb)
+[Regresion Lineal](https://github.com/Xam900mr/IA_MRM_G31/tree/main/Tareas/Semana%209/Regresi%C3%B3n%20lineal)  
+[Regresion Lineal Multiple](https://github.com/Xam900mr/IA_MRM_G31/tree/main/Tareas/Semana%209/Regresi%C3%B3n%20Lineal%20M%C3%BAltiple)  
+[Regresion Logistica](https://github.com/Xam900mr/IA_MRM_G31/tree/main/Tareas/Semana%209/Regresi%C3%B3n%20Log%C3%ADstica)  
+[Arbol de desiciones](https://github.com/Xam900mr/IA_MRM_G31/tree/main/Tareas/Semana%2010/%C3%81rbol%20de%20Decisi%C3%B3n)  
+[Random Forest](https://github.com/Xam900mr/IA_MRM_G31/tree/main/Tareas/Semana%2010/Random%20Forest)  
+[K-Nearest-Neihborn](https://github.com/Xam900mr/IA_MRM_G31/tree/main/Tareas/Semana%2010/K-NN)
