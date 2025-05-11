@@ -10,6 +10,7 @@
 [Feature Engineering](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Certificados%20Kaggle/Certificado%20Feature%20Engineering.pdf)  
 [intro to SQL](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Certificados%20Kaggle/Certificado%20Intro%20to%20SQL.pdf)  
 [Advanced SQL](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Certificados%20Kaggle/Certificado%20Advanced%20SQL.pdf)  
+[Intro to Deep Learning](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Certificados%20Kaggle/Certificado%20Intro%20to%20Deep%20Learning.pdf)
 
 # Tareas
 [Certificado IBM](https://github.com/Xam900mr/IA_MRM_G31/blob/main/Tareas/Semana%203/Certificado%20IBM%20Python.pdf)  
